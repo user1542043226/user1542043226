@@ -15,7 +15,7 @@
 - 🎧 **计划做？：学习更多的网络知识**
 - 🤔 **无法做？：学习中**                 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user1542043226)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user1542043226)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 念念不忘，必有回响 👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
